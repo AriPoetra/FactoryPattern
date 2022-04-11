@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\College\Semester 4\Jaringan Komputer\Observer Pattern\Factory Pattern\TilesFac.h(21): warning C4715: 'TilesFactory::getTile': not all control paths return a value
+  Observer Pattern.vcxproj -> E:\College\Semester 4\Jaringan Komputer\Observer Pattern\Factory Pattern\x64\Debug\Observer Pattern.exe
